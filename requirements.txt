@@ -1,0 +1,7 @@
+torch
+opencv-python
+numpy
+matplotlib
+tqdm
+scikit-image
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
