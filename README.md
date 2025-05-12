@@ -54,9 +54,7 @@ python scripts/refine_masks.py
 | SAM+Refine   | COCO     | 85.3     | 92.0   | 980           |
 | MedSAM       | MedSet   | 82.4     | 88.9   | 960           |
 
-## 📷 Visual Examples
 
-![example](notebooks/images/sample_output.png)
 
 ## 📚 Acknowledgments
 
